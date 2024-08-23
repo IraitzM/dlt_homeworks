@@ -8,5 +8,5 @@ The reference material can be found [here](https://github.com/dlt-hub/dlthub-edu
 
 And recordings:
 
-* Part-1
+* [Part-1](https://www.youtube.com/live/kn2CM7RH2yU)
 * [Part-2](https://www.youtube.com/live/8dmu33nVU7s)
